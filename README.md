@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+Sou Gustavo, estudante de engenharia de software na UFC/Russas.
+## Tenho habilidades em:
+- Design UI/UX;
+## Estou me especializando em:
+- Python;
+- Machine Learning;
 <!--
 **gustavogiraoufc/gustavogiraoufc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
