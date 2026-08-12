@@ -1,7 +1,8 @@
-## Hi there 👋
+## Olá 👋
 Sou Gustavo, estudante de engenharia de software na UFC/Russas.
 ## Tenho habilidades em:
 - Design UI/UX;
+- Design Gráfico;
 ## Estou me especializando em:
 - Python;
 - Machine Learning;
