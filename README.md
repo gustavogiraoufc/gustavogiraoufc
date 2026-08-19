@@ -4,7 +4,6 @@ Olá! Sou Gustavo Girão, desenvolvedor e designer em formação. Sou estudante 
 - Design UI/UX;
 - Design Gráfico;
 ## 🎯 O que estou aprendendo
-- Python;
-- Machine Learning;
+- C;
 ## 📧 Como me contatar
 - Email: gustavogirao@alu.ufc.br
